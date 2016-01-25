@@ -8,6 +8,7 @@
   <sprites name="sprites">
     <sprite>sprites\t_sprite</sprite>
     <sprite>sprites\t_testBlock</sprite>
+    <sprite>sprites\t_block</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -22,7 +23,7 @@
   </scripts>
   <objects name="objects">
     <object>objects\player</object>
-    <object>objects\o_testBlock</object>
+    <object>objects\o_collision</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\r_testroom</room>
